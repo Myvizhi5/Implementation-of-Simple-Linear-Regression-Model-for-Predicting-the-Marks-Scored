@@ -52,8 +52,8 @@ plt.ylabel("Scores")
 plt.show()
 
 ## Output:
+![Screenshot 2025-03-24 162210](https://github.com/user-attachments/assets/6bf21f57-9659-44d2-883a-765e328a32d9)
 
-![Screenshot 2025-03-24 162210](https://github.com/user-attachments/assets/19fe01a4-bed0-48db-9a7c-71efc0acb99e)
 
 
 
