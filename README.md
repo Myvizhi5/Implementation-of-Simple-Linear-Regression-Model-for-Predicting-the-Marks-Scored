@@ -50,10 +50,10 @@ plt.title("Hours vs Scores")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+```
 
 ## Output:
-![Screenshot 2025-03-24 162210](https://github.com/user-attachments/assets/6bf21f57-9659-44d2-883a-765e328a32d9)
-
+![image](https://github.com/user-attachments/assets/5734da33-114f-478f-b55b-c9eec74b9afc)
 
 
 
